@@ -34,4 +34,7 @@ public class Stack {
         int popEl = stack[tos--];
         return popEl;
     }
+	public void Add(){
+		
+	}
 }
